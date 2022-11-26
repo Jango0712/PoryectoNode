@@ -1,0 +1,7 @@
+PASOS PARA SUBIR UN PROYECTO A GIT!!!
+
+-Hacer un git init para enlazar.
+-Hacer un git add con los archivos que se desean subir al proyecto.
+-Hacer un git status para consultar nuestro estado y verificar nuestro proceso(opcional).
+-Hacer un git commit para confirmar los cambios y agregar un comentario si es deseado.
+-Hacer un git push para subir por completo los archivos deseados a nuestro repositirio git.
