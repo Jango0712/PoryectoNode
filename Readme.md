@@ -7,3 +7,5 @@ PASOS PARA SUBIR UN PROYECTO A GIT!!!
 -Hacer un git branch para pasarnos a la rama main.
 -Hacer un git remote para añadir los archivos a nuestro repositorio remoto.
 -Hacer un git push para subir por completo los archivos deseados a nuestro repositirio git.
+
+Cambio
